@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @akomaristiy
+- 👀 I’m interested in learning programming and much more
+- 🌱 I’m currently learning HTML, C++, Java
+- 📫 How to reach me: anphylingua@gmail.com
